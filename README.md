@@ -12,9 +12,9 @@ I will need help with portfolio website and resume.
 ## Two Truths and a Lie
 
 ### Hung
-1. I'm the prince of Vietnam
+1. I speak 3 languages
 2. I'm a fitness model
-3. I bike 30 miles to get here each day
+3. I haven't been back to Vietnam in 7 years
 
 
 ## My LinkedIn
@@ -31,7 +31,7 @@ I like the idea of working for a small business or agency. I think I would thriv
 I like Backend work because it is such an essential part of web development that rarely being recognized by typical consumer. I would love to take on management role to take on a project because the challenge of being able to grasp the issue on a high level and also from the detailed and be able to figure out the strategy to tackle the problem from all angles.
 
 ## Link to my resume: 
-[Here!](NickAnderson_Resume.pdf)
+[Here!](Hung-resume.pdf)
 
 ## Link to my portfolio website: 
-[NickAnderson.rocks](http://NickAnderson.rocks)
+[hungmuha.codes](http://www.hungmuha.codes)
